@@ -1,3 +1,5 @@
 this is some added text to
 sample.txt
 ~havan u nana~
+
+this is a line from branch featture
